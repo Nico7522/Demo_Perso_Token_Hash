@@ -66,6 +66,7 @@
     <Build Include="Tables\Utilisateur.sql" />
     <Build Include="Programmability\Functions\FHasher.sql" />
     <Build Include="Programmability\SP\SPUtilisateurLogin.sql" />
+    <Build Include="Programmability\Functions\FEmail.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="DbTest.publish.xml" />
